@@ -2,6 +2,11 @@
 This is a practical assignment for Fuzzy Data Analisys course at LUT
 
 Practical assignment: Classification of bank marketing data set.
+
+Student: Lukoshkin Aleksandr.
+   
+Professor: Pasi Luukka.
+
 This work is a practical assignment for the Fuzzy Data Analysis course. The dataset is given by:
 S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls.The dataset consist of 16 attributes:
