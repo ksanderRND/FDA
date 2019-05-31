@@ -40,7 +40,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 Classification task solved by using (handmade algorithms in Matlab):
 
    a) Fully-connected neural network;
-   b) Similarity classifier;
+   b) Similarity based classifier;
  
 Behind that, in case to measure importance of the features there were implemented similarity measure and fuzzy entropy measure.
  
