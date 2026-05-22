@@ -1,4 +1,4 @@
-# FDA
+# Classification of bank marketing data set
 This is a practical assignment for Fuzzy Data Analisys course at LUT
 
 Practical assignment: Classification of bank marketing data set.
